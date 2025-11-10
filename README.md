@@ -51,9 +51,10 @@ NaviHive 是一个精美的网站导航管理系统，帮助你整理和管理�
 - [支持一下作者](#-支持一下作者)
 - [Star History](#star-history)
 
+<img https://private-user-images.githubusercontent.com/14195003/512047595-06e62178-6add-4694-8a22-dc369b044c91.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3NjU1NDIsIm5iZiI6MTc2Mjc2NTI0MiwicGF0aCI6Ii8xNDE5NTAwMy81MTIwNDc1OTUtMDZlNjIxNzgtNmFkZC00Njk0LThhMjItZGMzNjliMDQ0YzkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEwVDA5MDA0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4ODZkM2FjZTYwNmQzYzNlNzgzMjliZTgxZTExYTY5YmFlYzk4Yzk0Njk5NmY2NDZlNDgyZDgzOWI0ZTdlYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.voiTYlmVljRmYkGMy4Qwf2m3K9HGrTJhMC3Y4VaWXdY width="100%">
 ## 🌐 在线演示
 
-体验 NaviHive 的功能：[在线体验](https://navihive.chatbot.cab/)
+体验 NaviHive 的功能：[在线体验](https://daohang.toolsdepo.com/)
 
 **演示账号**：linuxdo  
 **演示密码**：linuxdo
